@@ -17,7 +17,7 @@ A natural language to JSON rules engine for filtering credit card transactions. 
 
 - Node.js 14+ 
 - npm or yarn
-- (Optional) [Ollama](https://ollama.ai/) with Llama model for enhanced NLP
+- [Ollama](https://ollama.ai/) with Llama model for enhanced NLP
 
 ## 🛠️ Installation
 
@@ -32,7 +32,7 @@ cd credit-card-rules-demo
 npm install
 ```
 
-3. (Optional) Install and set up Ollama:
+3. Install and set up Ollama:
 ```bash
 # Install Ollama (visit https://ollama.ai/ for instructions)
 # Pull a model (e.g., Llama 3.2)
